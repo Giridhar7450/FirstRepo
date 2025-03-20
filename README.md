@@ -1,3 +1,3 @@
 # FirstRepo
 This is my first Repo
-Author - Giridhar
+Author - Giridhar (Git)
